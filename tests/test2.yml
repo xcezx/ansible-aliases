@@ -5,4 +5,4 @@
    vars:
      - nis_server: True
    roles:
-     - ansible-role-aliases
+     - ansible-aliases
